@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantjoon&show_icons=true&locale=en&layout=compact" alt="hemantjoon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantjoon&show_icons=true&locale=en" alt="hemantjoon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantjoon&" alt="hemantjoon" /></p>
