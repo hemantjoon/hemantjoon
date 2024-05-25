@@ -1,7 +1,7 @@
 [![MasterHead](banner.png)](https://hemantjoon.github.io)
 <h1 align="center">Hi 👋, I'm Hemant Kumar Joon</h1>
 <h3 align="center">A passionate Bioinformatician and Web developer.</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Machine Learning and Single Cell Analysis Research Projects.**
 
